@@ -1,0 +1,15 @@
+{
+  "name": "@shared/client-store",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./index.ts",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.7",
+    "react-redux": "^8.1.3",
+    "redux": "^4.2.1",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.2.3",
+    "@shared/types": "*",
+    "@shared/client-api": "*"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@shared/tsconfig",
+  "version": "1.0.0",
+  "private": true,
+  "files": [
+    "web.json",
+    "server.json"
+  ]
+}

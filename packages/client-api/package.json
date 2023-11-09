@@ -1,0 +1,10 @@
+{
+  "name": "@shared/client-api",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./index.ts",
+  "dependencies": {
+    "@shared/types": "*",
+    "axios": "^1.6.0"
+  }
+}

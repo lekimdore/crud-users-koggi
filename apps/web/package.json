@@ -1,0 +1,33 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@mantine/core": "^7.1.7",
+    "@mantine/dates": "^7.1.7",
+    "@mantine/hooks": "^7.1.7",
+    "axios": "^1.6.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.0",
+    "dayjs": "^1.11.10",
+    "gsap": "^3.12.2",
+    "next": "13.5.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "tss-react": "^4.9.3",
+    "@shared/types": "*",
+    "@shared/constants": "*",
+    "@shared/utils": "*",
+    "@shared/client-store": "*",
+    "@shared/hooks": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "postcss": "^8",
+    "postcss-preset-mantine": "^1.9.0"
+  }
+}
